@@ -1,0 +1,2 @@
+Welcome to mini_OS.
+DATE: 2020-04-25
