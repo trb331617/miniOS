@@ -1,6 +1,6 @@
 # miniOS
 ## 运行效果
- ![运行效果图.png](https://github.com/Tencent/TencentOS-kernel/blob/master/images/tencentos-logo.png) 
+ ![运行效果图.png](https://github.com/trb331617/miniOS/blob/master/images/miniOS_final.png) 
 ## 主要功能
 - 内核线程、用户进程、fork和execv、任务调度
 - 中断(时钟, 键盘, 硬盘, 系统调用等)、内存管理、文件系统、shell、管道
