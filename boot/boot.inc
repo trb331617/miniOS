@@ -1,4 +1,4 @@
-; FILE: c05b_boot.inc
+; FILE: boot.inc
 ; TITLE: 
 ; DATE: 20200215
 

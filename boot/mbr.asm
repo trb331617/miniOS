@@ -1,4 +1,4 @@
-; FILE: c05a_mbr.asm
+; FILE: mbr.asm
 ; TITLE: 通过显存在显示器上打印字符
 ; DATE: 20200215
 ; USAGE: nasm -o mbr.bin c05a_mbr.asm

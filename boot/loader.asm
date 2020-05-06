@@ -1,4 +1,4 @@
-; FILE: c05b_loader.asm
+; FILE: loader.asm
 ; TITLE: 调用BIOS中断获取内存大小; 构建GDT、开启保护模式; 
 ;       构建页目录表和页表、开启分页机制;
 ; DATE: 20200215

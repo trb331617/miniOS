@@ -4,25 +4,16 @@
 
 #include "print.h"
 #include "console.h"
-
-#include "init.h"
-#include "interrupt.h"
-
-#include "thread.h"
-#include "process.h"
-
-#include "syscall-init.h"
-#include "syscall.h"
-
 #include "stdio.h"      // printf
 #include "stdio_kernel.h"   // printk
 
+#include "init.h"
+
+#include "thread.h"
 #include "memory.h"     // sys_malloc()
 #include "fs.h"         // sys_open()
 #include "dir.h"        // struct dir
-
 #include "syscall.h"    // fork()
-
 #include "shell.h"      // my_shell
 
 #include "assert.h"      // assert
