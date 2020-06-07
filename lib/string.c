@@ -60,7 +60,7 @@ signed char strcmp(const char *a, const char *b)
     assert(a != NULL && b != NULL);
     while(*a != 0 && *a == *b)
     {a++; b++;}
-    return *a > *b ? 1: *a < *b;
+    return *a < *b ? -1: *a > *b;
 }
 
 /* 从左到右查找字符串str中首次出现字符ch的地址(不是下标，是地址) */
